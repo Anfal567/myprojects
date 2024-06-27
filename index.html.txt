@@ -3,9 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>using git hub</title>
+    <title>i have made changes in it</title>
 </head>
 <body>
+    <h1>tis is heading</h1>
     <h1>tis is heading</h1>
 </body>
 </html>
